@@ -113,6 +113,7 @@ summaryLength = 70  # number of words for article summaries
     umamiWebsiteId = "example-tracking-code"
 
     enableShareOnFediverse = false  # enable a button at the end of an article to share it on the fediverse
+    fediverseAccount = "@username@instance.com"  # Automatically add your username under the post when anyone shares your articles
     tocBeforeImage = false  # show the table of contents before the main article image; default false
 
     # WARNING: deprecated! Use [[menu.icons]] instead, look below
